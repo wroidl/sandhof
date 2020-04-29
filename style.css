@@ -1,0 +1,99 @@
+
+
+
+
+    /* font-family: 'Walter Turncoat', cursive;
+    font-family: 'Delius Swash Caps', cursive;
+    font-family: 'Vibur', cursive;
+    font-family: 'Quintessential', cursive;
+    font-family: 'Charmonman', cursive; */
+
+
+
+
+* {      /* reset of browser margins and paddings to prevent unwanted behaviour  */
+    margin:0;
+    padding:0;
+    font-family: roboto, sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+}
+
+/* .top {
+    position: fixed;
+    top: 0;
+    background-color: #201c19;
+    color: #e6dacf;
+    width: 100%;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    z-index: 10;
+}
+
+
+.top nav ul{
+    display:inline-flex;
+    justify-content: space-between;
+    width: 15rem;
+}
+
+.top nav li{
+    display: inline;
+    font-weight: 100;
+}
+
+.top a:visited, .top a:link{
+    text-decoration: none;
+    color: #e6dacf;
+}
+
+.top a:hover{
+    color: white;
+    font-weight: bold;
+} */
+
+body{
+    width: 100%;
+    background-color: seagreen;
+
+}
+
+ .body{
+    width: 100%;
+    min-width: 34rem;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+} 
+
+main{
+    width: 60rem;
+    max-width: 80%;
+    min-width: 30rem;
+    height: 80rem;
+    background-color: cornsilk;
+padding: 3rem 1rem;
+
+
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-family: 'Walter Turncoat', cursive;
+
+   
+
+  
+
+    /* font-family: 'Quintessential', cursive; */
+
+   /* font-family: 'Charmonman', cursive;
+   font-weight: bolder; */
+   font-size: 3rem;
+
+
+}
