@@ -17,13 +17,35 @@
   background-color: #201c19;
 }
 
-.my-top-margin{
-    margin-top: 6rem;
+
+a:hover {
+  color: white;
+  text-decoration: none;
 }
 
-.my-headline-font{
-font-family: Charmonman;
-font-weight: bold;
+.carousel-caption {
+  position: relative;
+  left: 0;
+  top: 0;
+  color: cornsilk;
+  background-color: #201c19;
+ 
+}
+
+
+.my-top-margin {
+  margin-top: 6rem;
+}
+
+.my-headline-font {
+  font-family: Charmonman;
+  font-weight: bold;
+}
+
+.my-border-box2{
+  border-color: #201c19;
+  border: solid 2px;
+  border-radius: 0.3rem;
 }
 
 .navbar-toggler-icon {
@@ -33,13 +55,11 @@ font-weight: bold;
   border-color: rgb(230, 218, 207);
 }
 
-
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
   height: 100px;
   width: 100px;
   background-size: 100%, 100%;
-  
 }
 
 /* .carousel-control-prev-icon{
