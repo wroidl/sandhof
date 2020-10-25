@@ -17,6 +17,18 @@
   background-color: #201c19;
 }
 
+.inhalt{
+  background-color: rgb(207, 211, 197);
+  border-radius: 0.25rem;
+}
+
+.inhalt a{
+  color: #201c19;
+}
+.inhalt a:hover {
+  color: rgb(61, 112, 83);
+  text-decoration: none;
+} 
 
 a:hover {
   color: white;
@@ -32,9 +44,13 @@ a:hover {
  
 }
 
+.my-anchor{
+  padding-top: 60px; 
+  margin-top: -40px
+}
 
-.my-top-margin {
-  margin-top: 6rem;
+.my-top-padding {
+  padding-top: 6rem;
 }
 
 .my-headline-font {
