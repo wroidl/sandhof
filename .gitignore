@@ -3,3 +3,5 @@
 /webseiten_alt  
 .DS_Store
 notes.txt
+img/.DS_Store
+.gitignore
